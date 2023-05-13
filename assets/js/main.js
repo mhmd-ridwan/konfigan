@@ -123,7 +123,7 @@
       e.preventDefault()
       this.nextElementSibling.classList.toggle('dropdown-active')
     }
-  }, true)
+  }, false)
 
   /**
    * Scrool with ofset on links with a class name .scrollto
