@@ -122,7 +122,7 @@
     if (select('#navbar').classList.contains('navbar-mobile')) {
       e.preventDefault()
       this.nextElementSibling.classList.toggle('dropdown-active')
-      HTMLAnchorElement.<anonymous>
+      HTMLAnchorElement
     }
   }, false)
 
